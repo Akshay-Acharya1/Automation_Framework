@@ -1,0 +1,1718 @@
+2025-01-22 20:32:22,779 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 20:32:25,992 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 20:32:26,638 - 14 Sep_Automation_Framework -INFO - Click on the MyAccount link
+2025-01-22 20:32:27,966 - 14 Sep_Automation_Framework -INFO - Click on the Register link
+2025-01-22 20:32:27,979 - 14 Sep_Automation_Framework -INFO - Providing customer details....
+2025-01-22 20:32:31,714 - 14 Sep_Automation_Framework -INFO - validating expected Message....
+2025-01-22 20:32:31,823 - 14 Sep_Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-22 20:32:31,989 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 20:36:03,532 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 20:36:09,661 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 20:36:10,162 - 14 Sep_Automation_Framework -INFO - Click on the MyAccount link
+2025-01-22 20:36:11,913 - 14 Sep_Automation_Framework -INFO - Click on the Register link
+2025-01-22 20:36:11,927 - 14 Sep_Automation_Framework -INFO - Providing customer details....
+2025-01-22 20:36:13,250 - 14 Sep_Automation_Framework -INFO - validating expected Message....
+2025-01-22 20:36:13,290 - 14 Sep_Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-22 20:36:14,265 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 21:06:21,338 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 21:06:53,502 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 21:08:41,528 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 21:10:01,302 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 21:10:04,543 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 21:10:04,587 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-22 21:10:06,923 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 21:11:28,470 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 21:11:31,019 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 21:11:31,064 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-22 21:11:33,008 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 21:12:35,533 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 21:12:38,101 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 21:12:38,132 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-22 21:12:41,778 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 22:59:58,516 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 23:00:01,439 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 23:00:01,468 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-22 23:00:05,787 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 23:00:51,492 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 23:00:53,253 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 23:00:53,729 - 14 Sep_Automation_Framework -INFO - Click on the MyAccount link
+2025-01-22 23:00:54,397 - 14 Sep_Automation_Framework -INFO - Click on the Register link
+2025-01-22 23:00:54,435 - 14 Sep_Automation_Framework -INFO - Providing customer details....
+2025-01-22 23:00:54,780 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 23:00:56,305 - 14 Sep_Automation_Framework -INFO - validating expected Message....
+2025-01-22 23:00:56,370 - 14 Sep_Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-22 23:00:57,234 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 23:00:58,103 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 23:00:58,639 - 14 Sep_Automation_Framework -INFO - Click on the MyAccount link
+2025-01-22 23:00:59,737 - 14 Sep_Automation_Framework -INFO - Click on the Register link
+2025-01-22 23:00:59,738 - 14 Sep_Automation_Framework -INFO - Providing customer details....
+2025-01-22 23:01:02,986 - 14 Sep_Automation_Framework -INFO - validating expected Message....
+2025-01-22 23:01:03,042 - 14 Sep_Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-22 23:01:03,135 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 23:05:26,333 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 23:05:28,887 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 23:05:28,914 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-22 23:05:32,465 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-22 23:05:38,912 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-22 23:05:41,485 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-22 23:05:42,048 - 14 Sep_Automation_Framework -INFO - Click on the MyAccount link
+2025-01-22 23:05:43,185 - 14 Sep_Automation_Framework -INFO - Click on the Register link
+2025-01-22 23:05:43,193 - 14 Sep_Automation_Framework -INFO - Providing customer details....
+2025-01-22 23:05:47,135 - 14 Sep_Automation_Framework -INFO - validating expected Message....
+2025-01-22 23:05:47,228 - 14 Sep_Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-22 23:05:47,333 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 15:37:33,507 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 15:37:36,172 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 15:37:36,204 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-23 15:37:36,232 - 14 Sep_Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-23 15:37:36,232 - 14 Sep_Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-23 15:37:36,723 - 14 Sep_Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-23 15:37:37,290 - 14 Sep_Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-23 15:37:39,861 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 16:19:31,401 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 16:19:34,120 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 16:19:34,148 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-23 16:19:34,175 - 14 Sep_Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-23 16:19:34,175 - 14 Sep_Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-23 16:19:34,667 - 14 Sep_Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-23 16:19:35,197 - 14 Sep_Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-23 16:19:37,805 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 16:20:53,710 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 16:20:56,255 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 16:21:19,394 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 16:27:46,976 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 16:27:49,482 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 16:28:12,693 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 16:29:06,396 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 16:29:08,958 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 16:29:11,610 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 16:30:22,151 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 16:30:24,679 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 16:30:27,807 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 16:34:07,809 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 16:34:10,273 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 16:34:10,330 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->iPhone
+2025-01-23 16:34:10,331 - 14 Sep_Automation_Framework -INFO - Entering search keyword: {}iPhone
+2025-01-23 16:34:11,092 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 16:34:11,858 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}iPhone
+2025-01-23 16:34:12,013 - 14 Sep_Automation_Framework -INFO - Product Found: {}iPhone
+2025-01-23 16:34:12,014 - 14 Sep_Automation_Framework -INFO - Test completed for keyword: {}iPhone
+2025-01-23 16:34:12,022 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Samsung
+2025-01-23 16:34:12,023 - 14 Sep_Automation_Framework -INFO - Entering search keyword: {}Samsung
+2025-01-23 16:34:12,203 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 16:34:12,650 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Samsung
+2025-01-23 16:34:12,770 - 14 Sep_Automation_Framework -INFO - Product Found: {}Samsung SyncMaster 941BW
+2025-01-23 16:34:12,771 - 14 Sep_Automation_Framework -INFO - Test completed for keyword: {}Samsung
+2025-01-23 16:34:12,778 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Macbook
+2025-01-23 16:34:12,778 - 14 Sep_Automation_Framework -INFO - Entering search keyword: {}Macbook
+2025-01-23 16:34:12,853 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 16:34:13,196 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Macbook
+2025-01-23 16:34:13,272 - 14 Sep_Automation_Framework -INFO - Product Found: {}MacBook
+2025-01-23 16:34:13,272 - 14 Sep_Automation_Framework -INFO - Test completed for keyword: {}Macbook
+2025-01-23 16:34:13,410 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 17:10:57,051 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 17:10:59,783 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 17:11:00,500 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 17:13:58,170 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 17:14:00,770 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 17:14:01,422 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 17:21:15,252 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 17:21:17,900 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 17:21:19,599 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:25:17,903 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 17:25:20,532 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 17:25:22,244 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:26:50,540 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 17:26:53,386 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 17:26:55,362 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:27:19,447 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:27:44,951 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:27:45,010 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:28:09,539 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:28:09,582 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:28:34,164 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:28:34,184 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:28:36,582 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 17:29:51,273 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 17:29:53,851 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 17:29:55,559 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:30:02,223 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:30:02,257 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:30:28,357 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:30:28,392 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:30:52,500 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:30:52,530 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:31:16,707 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:31:16,733 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:31:18,949 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 17:35:48,585 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 17:35:51,246 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 17:35:52,965 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:35:58,585 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:35:58,596 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:36:22,059 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:36:22,078 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:36:45,365 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:36:45,382 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:37:08,441 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:37:08,467 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 17:37:12,024 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 17:37:12,228 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 19:36:01,568 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 19:36:04,109 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 19:36:04,139 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-23 19:36:04,169 - 14 Sep_Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-23 19:36:04,169 - 14 Sep_Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-23 19:36:04,741 - 14 Sep_Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-23 19:36:05,335 - 14 Sep_Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-23 19:36:07,769 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 19:36:14,189 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 19:36:16,516 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 19:36:17,030 - 14 Sep_Automation_Framework -INFO - Click on the MyAccount link
+2025-01-23 19:36:18,127 - 14 Sep_Automation_Framework -INFO - Click on the Register link
+2025-01-23 19:36:18,138 - 14 Sep_Automation_Framework -INFO - Providing customer details....
+2025-01-23 19:36:21,648 - 14 Sep_Automation_Framework -INFO - validating expected Message....
+2025-01-23 19:36:21,724 - 14 Sep_Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-23 19:36:21,827 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 19:36:27,966 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 19:36:30,492 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 19:36:30,532 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->iPhone
+2025-01-23 19:36:30,533 - 14 Sep_Automation_Framework -INFO - Entering search keyword: {}iPhone
+2025-01-23 19:36:31,372 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 19:36:32,223 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}iPhone
+2025-01-23 19:36:32,401 - 14 Sep_Automation_Framework -INFO - Product Found: {}iPhone
+2025-01-23 19:36:32,401 - 14 Sep_Automation_Framework -INFO - Test completed for keyword: {}iPhone
+2025-01-23 19:36:32,407 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Samsung
+2025-01-23 19:36:32,407 - 14 Sep_Automation_Framework -INFO - Entering search keyword: {}Samsung
+2025-01-23 19:36:32,583 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 19:36:32,966 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Samsung
+2025-01-23 19:36:33,087 - 14 Sep_Automation_Framework -INFO - Product Found: {}Samsung SyncMaster 941BW
+2025-01-23 19:36:33,087 - 14 Sep_Automation_Framework -INFO - Test completed for keyword: {}Samsung
+2025-01-23 19:36:33,091 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Macbook
+2025-01-23 19:36:33,093 - 14 Sep_Automation_Framework -INFO - Entering search keyword: {}Macbook
+2025-01-23 19:36:33,388 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 19:36:33,814 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Macbook
+2025-01-23 19:36:33,897 - 14 Sep_Automation_Framework -INFO - Product Found: {}MacBook
+2025-01-23 19:36:33,905 - 14 Sep_Automation_Framework -INFO - Test completed for keyword: {}Macbook
+2025-01-23 19:36:34,014 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 19:36:42,403 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 19:36:45,024 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 19:36:46,671 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 19:36:52,323 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 19:36:52,355 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 19:37:15,935 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 19:37:15,973 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 19:37:39,688 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 19:37:39,740 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 19:38:02,963 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 19:38:02,980 - 14 Sep_Automation_Framework -INFO - ***** stating TC_003_LoginDDT ******
+2025-01-23 19:38:06,643 - 14 Sep_Automation_Framework -INFO - ***** Finished TC_003_LoginDDT ******
+2025-01-23 19:38:06,820 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 20:29:46,731 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 20:29:49,526 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 20:29:49,584 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->iPhone
+2025-01-23 20:29:49,619 - 14 Sep_Automation_Framework -INFO - Entering search keyword:-->iPhone
+2025-01-23 20:29:50,448 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 20:29:51,258 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}iPhone
+2025-01-23 20:29:51,443 - 14 Sep_Automation_Framework -INFO - Product Found: {}iPhone
+2025-01-23 20:29:51,443 - 14 Sep_Automation_Framework -INFO - Test completed for keyword:iPhone
+2025-01-23 20:29:51,458 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Samsung
+2025-01-23 20:29:51,461 - 14 Sep_Automation_Framework -INFO - Entering search keyword:-->Samsung
+2025-01-23 20:29:51,657 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 20:29:52,048 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Samsung
+2025-01-23 20:29:52,211 - 14 Sep_Automation_Framework -INFO - Product Found: {}Samsung SyncMaster 941BW
+2025-01-23 20:29:52,212 - 14 Sep_Automation_Framework -INFO - Test completed for keyword:Samsung
+2025-01-23 20:29:52,221 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Macbook
+2025-01-23 20:29:52,223 - 14 Sep_Automation_Framework -INFO - Entering search keyword:-->Macbook
+2025-01-23 20:29:52,306 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 20:29:52,645 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Macbook
+2025-01-23 20:29:52,905 - 14 Sep_Automation_Framework -INFO - Product Found: {}MacBook
+2025-01-23 20:29:52,906 - 14 Sep_Automation_Framework -INFO - Test completed for keyword:Macbook
+2025-01-23 20:29:53,066 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-23 20:31:51,940 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-23 20:31:54,618 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-23 20:31:54,665 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->iPhone
+2025-01-23 20:31:54,706 - 14 Sep_Automation_Framework -INFO - Entering search keyword:-->iPhone
+2025-01-23 20:31:55,438 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 20:31:56,445 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}iPhone
+2025-01-23 20:31:56,663 - 14 Sep_Automation_Framework -INFO - Product Found: {}iPhone
+2025-01-23 20:31:56,664 - 14 Sep_Automation_Framework -INFO - Test completed for keyword:iPhone
+2025-01-23 20:31:56,674 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->iphone
+2025-01-23 20:31:56,677 - 14 Sep_Automation_Framework -INFO - Entering search keyword:-->iphone
+2025-01-23 20:31:56,855 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 20:31:57,155 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}iphone
+2025-01-23 20:31:57,332 - 14 Sep_Automation_Framework -INFO - Product Found: {}iPhone
+2025-01-23 20:31:57,332 - 14 Sep_Automation_Framework -INFO - Test completed for keyword:iphone
+2025-01-23 20:31:57,338 - 14 Sep_Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Macbook
+2025-01-23 20:31:57,339 - 14 Sep_Automation_Framework -INFO - Entering search keyword:-->Macbook
+2025-01-23 20:31:57,403 - 14 Sep_Automation_Framework -INFO - Clicking on the search button.
+2025-01-23 20:31:57,716 - 14 Sep_Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Macbook
+2025-01-23 20:31:57,813 - 14 Sep_Automation_Framework -INFO - Product Found: {}MacBook
+2025-01-23 20:31:57,814 - 14 Sep_Automation_Framework -INFO - Test completed for keyword:Macbook
+2025-01-23 20:31:58,016 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 10:06:02,714 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-24 10:06:05,574 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-24 10:06:05,607 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-24 10:06:05,640 - 14 Sep_Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-24 10:06:05,640 - 14 Sep_Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-24 10:06:06,152 - 14 Sep_Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-24 10:06:06,683 - 14 Sep_Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-24 10:06:09,071 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 10:07:25,338 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-24 10:07:28,019 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-24 10:07:28,045 - 14 Sep_Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-24 10:07:28,078 - 14 Sep_Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-24 10:07:28,078 - 14 Sep_Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-24 10:07:28,560 - 14 Sep_Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-24 10:07:29,099 - 14 Sep_Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-24 10:07:31,495 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 17:42:26,293 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-24 17:42:29,117 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-24 17:42:29,255 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 18:37:31,248 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-24 18:37:38,028 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-24 18:37:38,168 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 18:39:06,343 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-24 18:39:09,110 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-24 18:39:09,277 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 18:40:51,198 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-24 18:40:54,034 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-24 18:40:54,248 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 18:46:39,874 - 14 Sep_Automation_Framework -INFO - Open the browser
+2025-01-24 18:46:43,739 - 14 Sep_Automation_Framework -INFO - Open the application
+2025-01-24 18:47:11,043 - 14 Sep_Automation_Framework -INFO - Close the browser
+2025-01-24 18:54:14,416 - Automation_Framework -INFO - Logger initialized
+2025-01-24 18:54:14,423 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 18:54:14,423 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 18:54:23,223 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 18:54:23,224 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 18:54:23,562 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 18:54:23,574 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 18:54:25,934 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 18:54:25,964 - Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-24 18:54:26,001 - Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-24 18:54:26,151 - Automation_Framework -INFO - Total links including images found: 102
+2025-01-24 18:54:26,152 - Automation_Framework -INFO - Filtering active links
+2025-01-24 18:54:26,885 - Automation_Framework -INFO - Total active links found: 73
+2025-01-24 18:54:27,735 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 18:54:28,511 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 18:54:28,849 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/register
+2025-01-24 18:54:29,181 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/login
+2025-01-24 18:54:29,745 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 18:54:30,057 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2025-01-24 18:54:30,553 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+2025-01-24 18:54:30,872 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=common/home
+2025-01-24 18:54:31,199 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 18:54:31,574 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+2025-01-24 18:54:31,902 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+2025-01-24 18:54:32,290 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 18:54:32,607 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 18:54:32,920 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46
+2025-01-24 18:54:33,234 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45
+2025-01-24 18:54:33,620 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 18:54:34,092 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 18:54:34,427 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29
+2025-01-24 18:54:34,775 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28
+2025-01-24 18:54:35,112 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30
+2025-01-24 18:54:35,487 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31
+2025-01-24 18:54:35,844 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32
+2025-01-24 18:54:36,233 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 18:54:36,572 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+2025-01-24 18:54:36,900 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+2025-01-24 18:54:37,266 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+2025-01-24 18:54:37,609 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+2025-01-24 18:54:37,995 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 18:54:38,383 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43
+2025-01-24 18:54:38,714 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44
+2025-01-24 18:54:39,082 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47
+2025-01-24 18:54:39,433 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48
+2025-01-24 18:54:39,759 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49
+2025-01-24 18:54:40,124 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50
+2025-01-24 18:54:40,455 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51
+2025-01-24 18:54:40,780 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52
+2025-01-24 18:54:41,142 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53
+2025-01-24 18:54:41,485 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54
+2025-01-24 18:54:41,864 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55
+2025-01-24 18:54:42,199 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56
+2025-01-24 18:54:42,540 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38
+2025-01-24 18:54:42,929 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37
+2025-01-24 18:54:43,260 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39
+2025-01-24 18:54:43,597 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40
+2025-01-24 18:54:43,928 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41
+2025-01-24 18:54:44,266 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42
+2025-01-24 18:54:44,606 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 18:54:44,947 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 18:54:45,277 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 18:54:45,591 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 18:54:45,966 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 18:54:46,293 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 18:54:46,684 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 18:54:47,017 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 18:54:49,948 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 18:54:50,282 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 18:54:50,597 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 18:54:50,859 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+2025-01-24 18:54:51,128 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+2025-01-24 18:54:51,385 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+2025-01-24 18:54:51,642 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+2025-01-24 18:54:51,967 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 18:54:52,279 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/return/add
+2025-01-24 18:54:52,669 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/sitemap
+2025-01-24 18:54:53,036 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+2025-01-24 18:54:53,356 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/voucher
+2025-01-24 18:54:53,666 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=affiliate/login
+2025-01-24 18:54:54,000 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/special
+2025-01-24 18:54:54,547 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 18:54:55,068 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/order
+2025-01-24 18:54:55,606 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 18:54:56,194 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/newsletter
+2025-01-24 18:54:56,417 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 301http://www.opencart.com/
+2025-01-24 18:54:56,418 - Automation_Framework -INFO - Number of broken links: 0
+2025-01-24 18:54:56,419 - Automation_Framework -INFO - Test Case: Validate Broken Links completed
+2025-01-24 18:54:56,451 - Automation_Framework -INFO - Closing the browser
+2025-01-24 18:54:56,585 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 19:03:05,388 - Automation_Framework -INFO - Logger initialized
+2025-01-24 19:03:05,397 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 19:03:05,397 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 19:03:16,175 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 19:03:16,177 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 19:03:16,512 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 19:03:16,523 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 19:03:19,275 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 19:03:19,293 - Automation_Framework -INFO - Closing the browser
+2025-01-24 19:03:19,408 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 19:04:32,462 - Automation_Framework -INFO - Logger initialized
+2025-01-24 19:04:32,466 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 19:04:32,466 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 19:04:41,046 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 19:04:41,048 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 19:04:41,382 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 19:04:41,395 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 19:04:45,722 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 19:04:45,748 - Automation_Framework -INFO - Closing the browser
+2025-01-24 19:04:45,874 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 19:04:45,900 - Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-24 19:04:45,940 - Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-24 19:05:49,932 - Automation_Framework -INFO - Logger initialized
+2025-01-24 19:05:49,936 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 19:05:49,936 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 19:05:57,411 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 19:05:57,412 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 19:05:57,746 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 19:05:57,757 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 19:06:00,245 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 19:06:00,257 - Automation_Framework -INFO - Closing the browser
+2025-01-24 19:06:00,361 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 19:06:00,379 - Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-24 19:06:00,411 - Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-24 19:08:23,169 - Automation_Framework -INFO - Logger initialized
+2025-01-24 19:08:23,176 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 19:08:23,176 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 19:08:30,967 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 19:08:30,968 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 19:08:31,298 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 19:08:31,313 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 19:08:33,898 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 19:08:33,913 - Automation_Framework -INFO - Closing the browser
+2025-01-24 19:08:34,026 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 19:08:34,052 - Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-24 19:08:34,088 - Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-24 19:09:28,584 - Automation_Framework -INFO - Logger initialized
+2025-01-24 19:09:28,591 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 19:09:28,591 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 19:09:37,427 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 19:09:37,428 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 19:09:37,755 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 19:09:37,766 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 19:09:40,214 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 19:09:40,246 - Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-24 19:09:40,287 - Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-24 19:09:40,433 - Automation_Framework -INFO - Total links including images found: 102
+2025-01-24 19:09:40,434 - Automation_Framework -INFO - Filtering active links
+2025-01-24 19:09:41,174 - Automation_Framework -INFO - Total active links found: 73
+2025-01-24 19:09:41,970 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 19:09:42,559 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 19:09:42,896 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/register
+2025-01-24 19:09:43,254 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/login
+2025-01-24 19:09:43,809 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 19:09:44,086 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2025-01-24 19:09:44,579 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+2025-01-24 19:09:44,964 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=common/home
+2025-01-24 19:09:45,380 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 19:09:45,728 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+2025-01-24 19:09:46,053 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+2025-01-24 19:09:46,389 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 19:09:46,706 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 19:09:47,048 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46
+2025-01-24 19:09:47,401 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45
+2025-01-24 19:09:47,728 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 19:09:48,218 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 19:09:48,548 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29
+2025-01-24 19:09:48,883 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28
+2025-01-24 19:09:49,222 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30
+2025-01-24 19:09:49,566 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31
+2025-01-24 19:09:49,937 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32
+2025-01-24 19:09:50,316 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 19:09:50,647 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+2025-01-24 19:09:51,021 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+2025-01-24 19:09:51,342 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+2025-01-24 19:09:51,740 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+2025-01-24 19:09:52,091 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 19:09:52,429 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43
+2025-01-24 19:09:52,780 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44
+2025-01-24 19:09:53,128 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47
+2025-01-24 19:09:53,546 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48
+2025-01-24 19:09:53,874 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49
+2025-01-24 19:09:54,240 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50
+2025-01-24 19:09:54,580 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51
+2025-01-24 19:09:54,933 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52
+2025-01-24 19:09:55,379 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53
+2025-01-24 19:09:56,022 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54
+2025-01-24 19:09:56,360 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55
+2025-01-24 19:09:56,750 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56
+2025-01-24 19:09:57,084 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38
+2025-01-24 19:09:57,429 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37
+2025-01-24 19:09:57,761 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39
+2025-01-24 19:09:58,101 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40
+2025-01-24 19:09:58,449 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41
+2025-01-24 19:09:58,783 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42
+2025-01-24 19:09:59,136 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 19:09:59,479 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 19:09:59,793 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 19:10:00,131 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 19:10:00,464 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 19:10:00,781 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 19:10:01,114 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 19:10:01,838 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 19:10:02,890 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 19:10:03,448 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 19:10:04,001 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 19:10:04,408 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+2025-01-24 19:10:04,849 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+2025-01-24 19:10:05,199 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+2025-01-24 19:10:05,488 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+2025-01-24 19:10:05,913 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 19:10:06,232 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/return/add
+2025-01-24 19:10:06,607 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/sitemap
+2025-01-24 19:10:06,949 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+2025-01-24 19:10:07,274 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/voucher
+2025-01-24 19:10:07,660 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=affiliate/login
+2025-01-24 19:10:07,979 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/special
+2025-01-24 19:10:08,532 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 19:10:09,120 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/order
+2025-01-24 19:10:09,802 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 19:10:10,441 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/newsletter
+2025-01-24 19:10:11,593 - Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 301http://www.opencart.com/
+2025-01-24 19:10:11,594 - Automation_Framework -INFO - Number of broken links: 0
+2025-01-24 19:10:11,597 - Automation_Framework -INFO - Test Case: Validate Broken Links completed
+2025-01-24 19:10:11,641 - Automation_Framework -INFO - Closing the browser
+2025-01-24 19:10:11,768 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 19:11:46,537 - Automation_Framework -INFO - Logger initialized
+2025-01-24 19:11:46,544 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 19:11:46,545 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 19:11:54,860 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 19:11:54,862 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 19:11:55,191 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 19:11:55,201 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 19:11:57,691 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 19:11:57,725 - Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-24 19:11:57,765 - Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-24 19:11:57,766 - Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-24 19:11:58,311 - Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-24 19:11:58,859 - Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-24 19:12:01,183 - Automation_Framework -INFO - Closing the browser
+2025-01-24 19:12:01,325 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 19:19:58,643 - Automation_Framework -INFO - Logger initialized
+2025-01-24 19:19:58,649 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 19:19:58,649 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 19:20:07,766 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 19:20:07,769 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 19:20:08,097 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 19:20:08,110 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 19:20:10,498 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 19:21:23,808 - Automation_Framework -INFO - Closing the browser
+2025-01-24 19:21:23,954 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 20:12:10,238 - Automation_Framework -INFO - Logger initialized
+2025-01-24 20:12:10,246 - Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 20:12:10,247 - Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 20:12:20,910 - Automation_Framework -INFO - Browser launched successfully
+2025-01-24 20:12:20,911 - Automation_Framework -INFO - Maximizing browser window
+2025-01-24 20:12:21,239 - Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 20:12:21,248 - Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 20:12:23,932 - Automation_Framework -INFO - Application opened successfully
+2025-01-24 20:13:37,054 - Automation_Framework -INFO - Closing the browser
+2025-01-24 20:13:37,248 - Automation_Framework -INFO - Browser closed successfully
+2025-01-24 20:30:51,409 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-24 20:30:51,415 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 20:30:51,415 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 20:31:00,136 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-24 20:31:00,137 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-24 20:31:00,473 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 20:31:00,483 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 20:31:03,074 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-24 20:31:03,129 - 14 Sep Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-24 20:31:03,184 - 14 Sep Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-24 20:31:03,352 - 14 Sep Automation_Framework -INFO - Total links including images found: 102
+2025-01-24 20:31:03,353 - 14 Sep Automation_Framework -INFO - Filtering active links
+2025-01-24 20:31:04,074 - 14 Sep Automation_Framework -INFO - Total active links found: 73
+2025-01-24 20:31:07,716 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 20:31:08,346 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 20:31:08,693 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/register
+2025-01-24 20:31:09,041 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/login
+2025-01-24 20:31:09,599 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 20:31:09,869 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2025-01-24 20:31:10,440 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+2025-01-24 20:31:10,780 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=common/home
+2025-01-24 20:31:11,131 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 20:31:11,436 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+2025-01-24 20:31:11,757 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+2025-01-24 20:31:12,089 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 20:31:12,427 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 20:31:13,022 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46
+2025-01-24 20:31:13,378 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45
+2025-01-24 20:31:13,758 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 20:31:14,102 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 20:31:14,416 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29
+2025-01-24 20:31:14,754 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28
+2025-01-24 20:31:15,095 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30
+2025-01-24 20:31:15,439 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31
+2025-01-24 20:31:15,758 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32
+2025-01-24 20:31:16,093 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 20:31:16,408 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+2025-01-24 20:31:16,740 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+2025-01-24 20:31:17,057 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+2025-01-24 20:31:17,381 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+2025-01-24 20:31:17,731 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 20:31:18,083 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43
+2025-01-24 20:31:18,394 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44
+2025-01-24 20:31:18,726 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47
+2025-01-24 20:31:19,053 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48
+2025-01-24 20:31:19,362 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49
+2025-01-24 20:31:19,689 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50
+2025-01-24 20:31:20,013 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51
+2025-01-24 20:31:20,348 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52
+2025-01-24 20:31:20,688 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53
+2025-01-24 20:31:21,030 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54
+2025-01-24 20:31:21,412 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55
+2025-01-24 20:31:21,737 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56
+2025-01-24 20:31:22,170 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38
+2025-01-24 20:31:22,491 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37
+2025-01-24 20:31:22,808 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39
+2025-01-24 20:31:23,132 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40
+2025-01-24 20:31:23,446 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41
+2025-01-24 20:31:23,796 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42
+2025-01-24 20:31:24,126 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 20:31:24,462 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 20:31:24,792 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 20:31:25,125 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 20:31:25,457 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 20:31:25,823 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 20:31:26,151 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 20:31:26,476 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 20:31:26,806 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 20:31:27,178 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 20:31:27,505 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 20:31:27,798 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+2025-01-24 20:31:28,057 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+2025-01-24 20:31:28,300 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+2025-01-24 20:31:28,552 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+2025-01-24 20:31:28,870 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 20:31:29,185 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/return/add
+2025-01-24 20:31:29,488 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=information/sitemap
+2025-01-24 20:31:29,805 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+2025-01-24 20:31:30,130 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/voucher
+2025-01-24 20:31:30,454 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=affiliate/login
+2025-01-24 20:31:30,828 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=product/special
+2025-01-24 20:31:31,398 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 20:31:31,938 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/order
+2025-01-24 20:31:32,461 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 20:31:33,150 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200https://tutorialsninja.com/demo/index.php?route=account/newsletter
+2025-01-24 20:31:33,374 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 301http://www.opencart.com/
+2025-01-24 20:31:33,375 - 14 Sep Automation_Framework -INFO - Number of broken links: 0
+2025-01-24 20:31:33,378 - 14 Sep Automation_Framework -INFO - Test Case: Validate Broken Links completed
+2025-01-24 20:31:33,425 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-24 20:31:33,560 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-24 20:38:40,565 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-24 20:38:40,577 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 20:38:40,578 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 20:38:49,326 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-24 20:38:49,328 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-24 20:38:49,660 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 20:38:49,675 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 20:38:52,256 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-24 20:38:52,297 - 14 Sep Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-24 20:38:52,333 - 14 Sep Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-24 20:38:52,513 - 14 Sep Automation_Framework -INFO - Total links including images found: 102
+2025-01-24 20:38:52,513 - 14 Sep Automation_Framework -INFO - Filtering active links
+2025-01-24 20:38:53,220 - 14 Sep Automation_Framework -INFO - Total active links found: 73
+2025-01-24 20:38:53,778 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 20:38:54,428 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 20:38:54,830 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/register
+2025-01-24 20:38:55,201 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/login
+2025-01-24 20:38:55,757 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 20:38:56,076 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2025-01-24 20:38:56,625 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+2025-01-24 20:38:57,015 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=common/home
+2025-01-24 20:38:57,377 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 20:38:57,691 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+2025-01-24 20:38:58,034 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+2025-01-24 20:38:58,426 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-24 20:38:58,750 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 20:38:59,076 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46
+2025-01-24 20:38:59,405 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45
+2025-01-24 20:38:59,922 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-24 20:39:00,280 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 20:39:00,648 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29
+2025-01-24 20:39:01,070 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28
+2025-01-24 20:39:01,513 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30
+2025-01-24 20:39:02,082 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31
+2025-01-24 20:39:02,556 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32
+2025-01-24 20:39:02,962 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-24 20:39:03,369 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+2025-01-24 20:39:03,692 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+2025-01-24 20:39:04,098 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+2025-01-24 20:39:04,630 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+2025-01-24 20:39:05,055 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 20:39:05,383 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43
+2025-01-24 20:39:05,708 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44
+2025-01-24 20:39:06,080 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47
+2025-01-24 20:39:06,463 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48
+2025-01-24 20:39:06,814 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49
+2025-01-24 20:39:07,158 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50
+2025-01-24 20:39:07,470 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51
+2025-01-24 20:39:07,857 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52
+2025-01-24 20:39:08,275 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53
+2025-01-24 20:39:08,617 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54
+2025-01-24 20:39:08,956 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55
+2025-01-24 20:39:09,330 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56
+2025-01-24 20:39:09,653 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38
+2025-01-24 20:39:09,985 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37
+2025-01-24 20:39:10,311 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39
+2025-01-24 20:39:10,629 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40
+2025-01-24 20:39:10,999 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41
+2025-01-24 20:39:11,326 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42
+2025-01-24 20:39:11,724 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-24 20:39:12,055 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 20:39:12,396 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-24 20:39:12,787 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 20:39:13,115 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-24 20:39:13,463 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 20:39:13,802 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-24 20:39:14,179 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 20:39:14,502 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-24 20:39:14,901 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 20:39:15,243 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-24 20:39:15,797 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+2025-01-24 20:39:16,078 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+2025-01-24 20:39:16,341 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+2025-01-24 20:39:16,593 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+2025-01-24 20:39:16,981 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-24 20:39:17,296 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/return/add
+2025-01-24 20:39:17,684 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/sitemap
+2025-01-24 20:39:18,012 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+2025-01-24 20:39:18,400 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/voucher
+2025-01-24 20:39:18,783 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=affiliate/login
+2025-01-24 20:39:19,148 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/special
+2025-01-24 20:39:19,691 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-24 20:39:20,200 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/order
+2025-01-24 20:39:20,839 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-24 20:39:21,514 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/newsletter
+2025-01-24 20:39:21,712 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 301 http://www.opencart.com/
+2025-01-24 20:39:21,713 - 14 Sep Automation_Framework -INFO - Number of broken links: 0
+2025-01-24 20:39:21,722 - 14 Sep Automation_Framework -INFO - Test Case: Validate Broken Links completed
+2025-01-24 20:39:21,840 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-24 20:39:21,990 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-24 20:39:22,008 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-24 20:39:22,009 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 20:39:22,009 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 20:39:30,146 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-24 20:39:30,150 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-24 20:39:30,482 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 20:39:30,491 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 20:39:34,758 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-24 20:39:34,793 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-24 20:39:34,801 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-24 20:39:34,801 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-24 20:39:35,555 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-24 20:39:36,185 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-24 20:39:38,647 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-24 20:39:38,749 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-24 20:40:00,524 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-24 20:40:00,527 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-24 20:40:00,537 - 14 Sep Automation_Framework -INFO - Setting up the browser: firefox
+2025-01-24 20:40:00,538 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-24 20:40:00,538 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-24 20:40:00,538 - 14 Sep Automation_Framework -INFO - Launching Firefox browser
+2025-01-24 20:40:06,251 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-24 20:40:06,261 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-24 20:40:06,782 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 20:40:06,802 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 20:40:09,514 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-24 20:40:09,517 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-24 20:40:10,049 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-24 20:40:10,061 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-24 20:40:12,920 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-24 20:40:13,115 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-24 20:40:13,613 - 14 Sep Automation_Framework -INFO - Click on the MyAccount link
+2025-01-24 20:40:13,976 - 14 Sep Automation_Framework -INFO - Click on the MyAccount link
+2025-01-24 20:40:14,457 - 14 Sep Automation_Framework -INFO - Click on the Register link
+2025-01-24 20:40:14,467 - 14 Sep Automation_Framework -INFO - Providing customer details....
+2025-01-24 20:40:14,472 - 14 Sep Automation_Framework -INFO - Generated random string: aCGyx
+2025-01-24 20:40:14,652 - 14 Sep Automation_Framework -INFO - Generated random string: tBYFo
+2025-01-24 20:40:14,759 - 14 Sep Automation_Framework -INFO - Generated random alphanumeric string: nZeR592
+2025-01-24 20:40:14,834 - 14 Sep Automation_Framework -INFO - Generated random number: 7237826071
+2025-01-24 20:40:14,930 - 14 Sep Automation_Framework -INFO - Generated random alphanumeric string: KMIt120
+2025-01-24 20:40:15,571 - 14 Sep Automation_Framework -INFO - Click on the Register link
+2025-01-24 20:40:15,575 - 14 Sep Automation_Framework -INFO - Providing customer details....
+2025-01-24 20:40:15,577 - 14 Sep Automation_Framework -INFO - Generated random string: GygnD
+2025-01-24 20:40:16,025 - 14 Sep Automation_Framework -INFO - validating expected Message....
+2025-01-24 20:40:16,154 - 14 Sep Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-24 20:40:16,201 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-24 20:40:16,490 - 14 Sep Automation_Framework -INFO - Generated random string: IkFIG
+2025-01-24 20:40:16,755 - 14 Sep Automation_Framework -INFO - Generated random alphanumeric string: BVJp233
+2025-01-24 20:40:16,928 - 14 Sep Automation_Framework -INFO - Generated random number: 1557136843
+2025-01-24 20:40:17,059 - 14 Sep Automation_Framework -INFO - Generated random alphanumeric string: RTuZ281
+2025-01-24 20:40:17,305 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-24 20:40:19,505 - 14 Sep Automation_Framework -INFO - validating expected Message....
+2025-01-24 20:40:19,604 - 14 Sep Automation_Framework -INFO - ***** Finshied TC01_ AccountRegistrationTest ****
+2025-01-24 20:40:19,608 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-24 20:40:19,697 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-25 00:33:08,774 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 00:33:08,780 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 00:33:08,780 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 00:33:18,171 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 00:33:18,173 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 00:33:18,509 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 00:33:18,525 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 00:33:21,127 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 00:33:21,170 - 14 Sep Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-25 00:33:21,215 - 14 Sep Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-25 00:33:21,410 - 14 Sep Automation_Framework -INFO - Total links including images found: 102
+2025-01-25 00:33:21,411 - 14 Sep Automation_Framework -INFO - Filtering active links
+2025-01-25 00:33:22,186 - 14 Sep Automation_Framework -INFO - Total active links found: 73
+2025-01-25 00:33:23,000 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-25 00:33:23,814 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-25 00:33:24,134 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/register
+2025-01-25 00:33:24,548 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/login
+2025-01-25 00:33:25,119 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-25 00:33:25,442 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2025-01-25 00:33:26,075 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+2025-01-25 00:33:26,438 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=common/home
+2025-01-25 00:33:26,769 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-25 00:33:27,140 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+2025-01-25 00:33:27,722 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+2025-01-25 00:33:28,143 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-25 00:38:36,531 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 00:38:36,534 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 00:38:36,534 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 00:38:45,317 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 00:38:45,318 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 00:38:45,644 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 00:38:45,652 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 00:38:47,983 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 00:39:20,630 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 00:39:20,634 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 00:39:20,634 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 00:39:28,118 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 00:39:28,119 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 00:39:28,444 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 00:39:28,450 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 00:39:30,847 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 00:39:30,897 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-25 00:39:30,959 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-25 00:39:30,960 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-25 00:39:31,510 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-25 00:39:32,161 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-25 00:39:34,531 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-25 00:39:34,645 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-25 00:44:28,068 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 00:44:28,071 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 00:44:28,071 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 00:44:36,607 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 00:44:36,613 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 00:44:36,943 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 00:44:36,949 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 00:44:39,510 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 00:44:39,576 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-25 00:44:39,617 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-25 00:44:39,617 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-25 00:44:40,123 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-25 00:44:40,656 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-25 00:44:42,933 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-25 00:44:43,051 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-25 00:46:11,971 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 00:46:11,975 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 00:46:11,975 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 00:46:20,215 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 00:46:20,217 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 00:46:20,552 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 00:46:20,559 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 00:46:23,073 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 00:46:23,106 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-25 00:46:23,140 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-25 00:46:23,141 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-25 00:46:23,736 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-25 00:46:24,266 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-25 00:46:27,151 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-25 00:46:27,256 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-25 01:03:31,059 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 01:03:31,063 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 01:03:31,063 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 01:05:54,470 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 01:05:54,473 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 01:05:54,473 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 01:06:03,367 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 01:06:03,368 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 01:06:03,699 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 01:06:03,708 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 01:06:06,535 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 01:06:06,597 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-25 01:06:06,642 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-25 01:06:06,642 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-25 01:06:07,198 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-25 01:06:07,737 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-25 01:06:10,181 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-25 01:06:10,283 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-25 01:22:43,320 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 01:22:43,324 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 01:22:43,324 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 01:22:52,671 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 01:22:52,673 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 01:22:53,016 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 01:22:53,020 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 01:22:55,510 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 01:22:55,539 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-25 01:22:55,570 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-25 01:22:55,571 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-25 01:22:56,051 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-25 01:22:56,611 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-25 01:22:59,214 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-25 01:22:59,342 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-25 01:27:04,746 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-25 01:27:04,749 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-25 01:27:04,749 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-25 01:27:13,175 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-25 01:27:13,176 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-25 01:27:13,527 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-25 01:27:13,544 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-25 01:27:16,136 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-25 01:27:16,179 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-25 01:27:16,278 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-25 01:27:16,279 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-25 01:27:16,919 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-25 01:27:17,563 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-25 01:27:39,295 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-25 01:27:39,439 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 22:26:35,865 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 22:26:35,869 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 22:26:35,869 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 22:26:46,630 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 22:26:46,632 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 22:26:46,960 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 22:26:46,966 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 22:26:49,102 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 22:27:09,984 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 22:27:10,111 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 22:29:55,052 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 22:29:55,056 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 22:29:55,056 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 22:30:03,474 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 22:30:03,475 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 22:30:03,817 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 22:30:03,822 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 22:30:07,233 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 22:30:28,076 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 22:30:28,201 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 22:32:23,242 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 22:32:23,245 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 22:32:23,246 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 22:32:31,964 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 22:32:31,965 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 22:32:32,291 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 22:32:32,298 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 22:32:34,567 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 22:32:45,418 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 22:32:45,527 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 22:38:41,038 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 22:38:41,042 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 22:38:41,042 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 22:38:50,333 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 22:38:50,334 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 22:38:50,663 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 22:38:50,669 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 22:38:53,051 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 22:39:03,872 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 22:39:03,985 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 22:47:52,700 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 22:47:52,704 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 22:47:52,705 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 22:48:01,673 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 22:48:01,675 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 22:48:02,017 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 22:48:02,038 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 22:48:04,731 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 22:48:09,005 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 22:48:09,127 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 22:49:46,026 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 22:49:46,030 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 22:49:46,030 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 22:49:54,353 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 22:49:54,355 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 22:49:54,692 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 22:49:54,704 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 22:49:57,707 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 22:50:01,943 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 22:50:02,078 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 22:54:36,131 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 22:54:36,136 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 22:54:36,136 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 22:54:44,791 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 22:54:44,792 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 22:54:45,118 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 22:54:45,127 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 22:54:47,587 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 22:54:51,861 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 22:54:51,986 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:02:19,389 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:02:19,393 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:02:19,395 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:02:28,620 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:02:28,622 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:02:28,959 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:02:28,967 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:02:31,492 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:02:35,977 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:02:36,153 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:03:46,776 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:03:46,779 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:03:46,780 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:03:55,273 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:03:55,274 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:03:55,604 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:03:55,612 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:03:57,757 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:04:01,727 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:04:01,864 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:16:28,117 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:16:28,121 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:16:28,122 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:16:37,083 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:16:37,084 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:16:37,447 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:16:37,458 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:16:40,002 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:16:44,121 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:16:44,279 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:21:12,697 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:21:12,700 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:21:12,701 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:21:21,514 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:21:21,515 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:21:21,839 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:21:21,848 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:21:24,031 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:21:24,059 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-26 23:21:24,134 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-26 23:21:24,135 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-26 23:21:24,637 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-26 23:21:25,271 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-26 23:21:30,539 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:21:30,643 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:39:06,290 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:39:06,296 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:39:06,297 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:39:16,744 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:39:16,746 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:39:17,076 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:39:17,118 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:39:19,468 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:39:19,511 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-26 23:39:19,545 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-26 23:39:19,546 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-26 23:39:20,099 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-26 23:39:20,733 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-26 23:39:25,769 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:39:25,875 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:43:53,387 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:43:53,391 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:43:53,392 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:44:02,367 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:44:02,368 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:44:02,705 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:44:02,713 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:44:04,809 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:44:04,845 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-26 23:44:04,881 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-26 23:44:04,882 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-26 23:44:05,447 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-26 23:44:05,973 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-26 23:44:10,840 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:44:10,953 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:45:51,135 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:45:51,140 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:45:51,141 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:45:59,893 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:45:59,894 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:46:00,225 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:46:00,232 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:46:02,515 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:46:02,564 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-26 23:46:02,601 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-26 23:46:02,602 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-26 23:46:03,173 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-26 23:46:03,772 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-26 23:46:08,618 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:46:08,743 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:46:41,578 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:46:41,583 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:46:41,583 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:46:50,137 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:46:50,138 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:46:50,475 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:46:50,483 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:46:52,548 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:46:52,634 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-26 23:46:52,665 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-26 23:46:52,666 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-26 23:46:53,182 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-26 23:46:53,756 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-26 23:46:58,485 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:46:58,601 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:57:13,175 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:57:13,180 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:57:13,180 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:57:21,992 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:57:21,993 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:57:22,330 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:57:22,339 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:57:24,718 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:57:24,751 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-26 23:57:24,784 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-26 23:57:24,785 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-26 23:57:25,316 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-26 23:57:25,866 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-26 23:57:30,314 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:57:30,422 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-26 23:58:37,208 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-26 23:58:37,212 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-26 23:58:37,212 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-26 23:58:45,700 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-26 23:58:45,702 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-26 23:58:46,037 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-26 23:58:46,042 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-26 23:58:48,139 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-26 23:58:48,177 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-26 23:58:48,214 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-26 23:58:48,215 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-26 23:58:48,722 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-26 23:58:49,334 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-26 23:58:53,834 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-26 23:58:53,955 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:02:07,434 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:02:07,438 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:02:07,440 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:02:15,961 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:02:15,963 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:02:16,304 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:02:16,313 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:02:18,562 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:02:18,594 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:02:18,623 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:02:18,624 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:02:19,134 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:02:19,676 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:02:24,341 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:02:24,459 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:06:05,550 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:06:05,554 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:06:05,554 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:06:14,242 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:06:14,243 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:06:14,575 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:06:14,581 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:06:16,810 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:06:16,843 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:06:16,874 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:06:16,875 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:06:17,373 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:06:18,034 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:06:22,877 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:06:22,993 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:10:56,592 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:10:56,596 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:10:56,597 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:11:05,806 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:11:05,808 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:11:06,140 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:11:06,145 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:11:08,385 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:11:08,421 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:11:08,454 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:11:08,455 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:11:08,991 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:11:09,649 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:11:14,271 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:11:14,380 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:14:54,105 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:14:54,110 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:14:54,110 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:15:02,964 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:15:02,966 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:15:03,299 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:15:03,304 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:15:05,624 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:15:05,664 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:15:05,698 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:15:05,699 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:15:06,303 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:15:06,927 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:15:11,726 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:15:11,834 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:17:59,945 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:17:59,952 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:17:59,952 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:18:08,434 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:18:08,435 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:18:08,764 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:18:08,773 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:18:10,955 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:18:10,988 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:18:11,019 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:18:11,020 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:18:11,534 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:18:12,103 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:18:16,899 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:18:17,004 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:20:41,130 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:20:41,135 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:20:41,136 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:20:49,725 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:20:49,752 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:20:50,100 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:20:50,113 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:20:52,519 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:20:52,568 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:20:52,603 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:20:52,604 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:20:53,125 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:20:53,739 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:20:56,500 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:20:56,619 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:25:21,542 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:25:21,546 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:25:21,546 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:25:30,119 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:25:30,120 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:25:30,450 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:25:30,458 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:25:32,712 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:25:32,744 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:25:32,777 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:25:32,778 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:25:33,284 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:25:33,889 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:25:36,828 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:25:36,947 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:28:52,604 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:28:52,608 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:28:52,608 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:29:01,215 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:29:01,216 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:29:01,543 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:29:01,555 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:29:03,856 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:29:03,903 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:29:03,937 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:29:03,938 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:29:04,474 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:29:05,029 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:29:07,914 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:29:08,019 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:30:05,132 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:30:05,137 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:30:05,137 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:30:13,423 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:30:13,424 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:30:13,755 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:30:13,763 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:30:15,853 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:30:15,886 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:30:15,916 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:30:15,916 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:30:16,478 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:30:17,026 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:30:19,821 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:30:19,934 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:33:35,845 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:33:35,849 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:33:35,850 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:33:44,780 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:33:44,781 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:33:45,135 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:33:45,142 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:33:47,306 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:33:47,339 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:33:47,375 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:33:47,376 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:33:47,931 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:33:48,615 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:33:51,791 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:33:51,912 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:47:10,268 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:47:10,278 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:47:10,279 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:47:20,681 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:47:20,682 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:47:21,022 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:47:21,030 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:47:23,371 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:47:23,405 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:47:23,508 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:48:06,580 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:48:06,588 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:48:06,588 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:48:14,734 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:48:14,736 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:48:15,095 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:48:15,107 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:48:17,159 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:48:17,196 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:48:17,307 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:51:53,521 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:51:53,525 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:51:53,526 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:52:02,086 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:52:02,088 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:52:02,432 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:52:02,444 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:52:04,717 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:52:04,785 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:52:04,817 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:52:04,817 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:52:05,321 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:52:05,911 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:52:08,707 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:52:08,825 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:54:28,910 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:54:28,915 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:54:28,915 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:54:37,320 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:54:37,322 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:54:37,689 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:54:37,695 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:54:39,938 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:54:39,968 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 00:54:39,997 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 00:54:39,998 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 00:54:40,510 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 00:54:41,075 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 00:54:43,648 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:54:43,752 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 00:59:00,388 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 00:59:00,393 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 00:59:00,393 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 00:59:09,361 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 00:59:09,362 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 00:59:09,707 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 00:59:09,717 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 00:59:11,943 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 00:59:14,077 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 00:59:14,206 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 10:26:11,390 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 10:26:11,395 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 10:26:11,395 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 10:26:44,470 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 10:26:44,474 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 10:26:44,475 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 10:26:52,527 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 10:26:52,528 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 10:26:52,876 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 10:26:52,894 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 10:26:55,336 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 10:26:55,694 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 10:26:55,813 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 10:53:48,015 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 10:53:48,019 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 10:53:48,019 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 10:53:57,103 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 10:53:57,104 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 10:53:57,465 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 10:53:57,473 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 10:53:59,628 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 10:54:00,001 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 10:54:00,136 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 10:54:33,600 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 10:54:33,605 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 10:54:33,606 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 10:54:42,304 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 10:54:42,305 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 10:54:42,652 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 10:54:42,661 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 10:54:44,805 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 10:54:45,173 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 10:54:45,275 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 10:55:56,322 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 10:55:56,326 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 10:55:56,327 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 10:56:04,988 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 10:56:04,990 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 10:56:05,335 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 10:56:05,346 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 10:56:07,550 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 10:56:10,204 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 10:56:10,313 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 10:57:11,713 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 10:57:11,717 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 10:57:11,718 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 10:57:20,289 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 10:57:20,290 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 10:57:20,643 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 10:57:20,654 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 10:57:24,162 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 10:57:32,656 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 10:57:32,775 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:09:11,918 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:09:11,922 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:09:11,922 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:09:31,263 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:09:31,266 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:09:31,267 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:09:40,149 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 11:09:40,150 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 11:09:40,474 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:09:40,481 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:09:44,121 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 11:09:44,765 - 14 Sep Automation_Framework -INFO - Click on the MyAccount link
+2025-01-27 11:09:45,998 - 14 Sep Automation_Framework -INFO - Click on the Register link
+2025-01-27 11:09:46,005 - 14 Sep Automation_Framework -INFO - Providing customer details....
+2025-01-27 11:09:46,303 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 11:09:46,412 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:09:46,420 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:09:46,421 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:09:46,421 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:09:53,795 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 11:09:53,798 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 11:09:54,131 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:09:54,138 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:09:56,383 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 11:09:56,403 - 14 Sep Automation_Framework -INFO - ***** Startign TC_02_LoginTest
+2025-01-27 11:09:56,404 - 14 Sep Automation_Framework -INFO - Navigating to the Home Page.
+2025-01-27 11:09:56,404 - 14 Sep Automation_Framework -INFO - Clicking on 'My Account'.
+2025-01-27 11:09:56,989 - 14 Sep Automation_Framework -INFO - Clicking on 'Login'.
+2025-01-27 11:09:57,631 - 14 Sep Automation_Framework -INFO - Navigating to the Login Page.
+2025-01-27 11:09:59,912 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 11:10:00,004 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:10:00,009 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:10:00,009 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:10:00,009 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:10:07,086 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 11:10:07,088 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 11:10:07,415 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:10:07,421 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:10:09,549 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 11:10:09,582 - 14 Sep Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Samsung
+2025-01-27 11:10:09,587 - 14 Sep Automation_Framework -INFO - Entering search keyword:-->Samsung
+2025-01-27 11:10:10,346 - 14 Sep Automation_Framework -INFO - Clicking on the search button.
+2025-01-27 11:10:11,516 - 14 Sep Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Samsung
+2025-01-27 11:10:11,719 - 14 Sep Automation_Framework -INFO - Product Found: {}Samsung SyncMaster 941BW
+2025-01-27 11:10:11,720 - 14 Sep Automation_Framework -INFO - Test completed for keyword:Samsung
+2025-01-27 11:10:11,731 - 14 Sep Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->iphone
+2025-01-27 11:10:11,733 - 14 Sep Automation_Framework -INFO - Entering search keyword:-->iphone
+2025-01-27 11:10:11,959 - 14 Sep Automation_Framework -INFO - Clicking on the search button.
+2025-01-27 11:10:12,286 - 14 Sep Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}iphone
+2025-01-27 11:10:12,409 - 14 Sep Automation_Framework -INFO - Product Found: {}iPhone
+2025-01-27 11:10:12,410 - 14 Sep Automation_Framework -INFO - Test completed for keyword:iphone
+2025-01-27 11:10:12,413 - 14 Sep Automation_Framework -INFO - Starting testSearchFunctionality with keyword -->Macbook
+2025-01-27 11:10:12,414 - 14 Sep Automation_Framework -INFO - Entering search keyword:-->Macbook
+2025-01-27 11:10:12,496 - 14 Sep Automation_Framework -INFO - Clicking on the search button.
+2025-01-27 11:10:13,137 - 14 Sep Automation_Framework -INFO - Verifying that the product is displayed for keyword: {}Macbook
+2025-01-27 11:10:13,231 - 14 Sep Automation_Framework -INFO - Product Found: {}MacBook
+2025-01-27 11:10:13,233 - 14 Sep Automation_Framework -INFO - Test completed for keyword:Macbook
+2025-01-27 11:10:13,249 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 11:10:13,352 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:10:13,358 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:10:13,358 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:10:13,358 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:10:21,371 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 11:10:21,373 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 11:10:21,698 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:10:21,708 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:10:24,169 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 11:11:21,010 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 11:11:21,131 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:11:21,140 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:11:21,140 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:11:21,140 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:11:28,683 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 11:11:28,685 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 11:11:29,015 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:11:29,017 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:11:31,612 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 11:11:31,629 - 14 Sep Automation_Framework -INFO - Test Case: Validate Broken Links started
+2025-01-27 11:11:31,631 - 14 Sep Automation_Framework -INFO - Fetching all links and images from the homepage
+2025-01-27 11:11:31,808 - 14 Sep Automation_Framework -INFO - Total links including images found: 102
+2025-01-27 11:11:31,808 - 14 Sep Automation_Framework -INFO - Filtering active links
+2025-01-27 11:11:32,516 - 14 Sep Automation_Framework -INFO - Total active links found: 73
+2025-01-27 11:11:33,191 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-27 11:11:33,893 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-27 11:11:34,402 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/register
+2025-01-27 11:11:34,854 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/login
+2025-01-27 11:11:35,713 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-27 11:11:36,079 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2025-01-27 11:11:36,693 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+2025-01-27 11:11:37,022 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=common/home
+2025-01-27 11:11:37,502 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-27 11:11:38,216 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+2025-01-27 11:11:42,357 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+2025-01-27 11:11:42,801 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+2025-01-27 11:11:43,131 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-27 11:11:43,484 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46
+2025-01-27 11:11:43,862 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45
+2025-01-27 11:11:44,291 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+2025-01-27 11:11:44,977 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-27 11:11:45,350 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29
+2025-01-27 11:11:45,724 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28
+2025-01-27 11:11:46,078 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30
+2025-01-27 11:11:46,417 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31
+2025-01-27 11:11:46,733 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32
+2025-01-27 11:11:47,212 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+2025-01-27 11:11:47,609 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+2025-01-27 11:11:48,050 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+2025-01-27 11:11:48,385 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+2025-01-27 11:11:48,727 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+2025-01-27 11:11:49,102 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-27 11:11:49,540 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43
+2025-01-27 11:11:49,891 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44
+2025-01-27 11:11:50,326 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47
+2025-01-27 11:11:50,664 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48
+2025-01-27 11:11:52,813 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49
+2025-01-27 11:11:53,231 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50
+2025-01-27 11:11:53,576 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51
+2025-01-27 11:11:53,906 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52
+2025-01-27 11:11:54,276 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53
+2025-01-27 11:11:54,603 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54
+2025-01-27 11:11:54,933 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55
+2025-01-27 11:11:55,397 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56
+2025-01-27 11:11:55,744 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38
+2025-01-27 11:11:56,199 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37
+2025-01-27 11:11:56,627 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39
+2025-01-27 11:11:58,024 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40
+2025-01-27 11:11:58,471 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41
+2025-01-27 11:11:59,900 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42
+2025-01-27 11:12:00,247 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+2025-01-27 11:12:00,650 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-27 11:12:00,978 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+2025-01-27 11:12:01,617 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-27 11:12:01,953 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+2025-01-27 11:12:02,293 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-27 11:12:02,743 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+2025-01-27 11:12:03,127 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-27 11:12:03,557 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+2025-01-27 11:12:03,971 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-27 11:12:04,303 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+2025-01-27 11:12:04,575 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+2025-01-27 11:12:05,951 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+2025-01-27 11:12:06,267 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+2025-01-27 11:12:06,658 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+2025-01-27 11:12:07,147 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/contact
+2025-01-27 11:12:07,509 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/return/add
+2025-01-27 11:12:07,957 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=information/sitemap
+2025-01-27 11:12:08,300 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+2025-01-27 11:12:08,612 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/voucher
+2025-01-27 11:12:09,017 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=affiliate/login
+2025-01-27 11:12:09,336 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=product/special
+2025-01-27 11:12:10,005 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/account
+2025-01-27 11:12:10,537 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/order
+2025-01-27 11:12:11,115 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/wishlist
+2025-01-27 11:12:11,732 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 200 https://tutorialsninja.com/demo/index.php?route=account/newsletter
+2025-01-27 11:12:11,861 - 14 Sep Automation_Framework -INFO - Valid link ---> [Status code: ] URL: 301 http://www.opencart.com/
+2025-01-27 11:12:11,862 - 14 Sep Automation_Framework -INFO - Number of broken links: 0
+2025-01-27 11:12:11,862 - 14 Sep Automation_Framework -INFO - Test Case: Validate Broken Links completed
+2025-01-27 11:12:11,897 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 11:12:12,011 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:12:12,019 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:12:12,019 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:12:12,019 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:12:19,748 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 11:12:19,750 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 11:12:20,072 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:12:20,075 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:12:23,499 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 11:12:25,650 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 11:12:25,741 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:12:25,747 - 14 Sep Automation_Framework -INFO - Logger initialized
+2025-01-27 11:12:25,748 - 14 Sep Automation_Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:12:25,749 - 14 Sep Automation_Framework -INFO - Launching Chrome browser
+2025-01-27 11:12:32,219 - 14 Sep Automation_Framework -INFO - Browser launched successfully
+2025-01-27 11:12:32,224 - 14 Sep Automation_Framework -INFO - Maximizing browser window
+2025-01-27 11:12:32,560 - 14 Sep Automation_Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:12:32,563 - 14 Sep Automation_Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:12:34,808 - 14 Sep Automation_Framework -INFO - Application opened successfully
+2025-01-27 11:12:42,688 - 14 Sep Automation_Framework -INFO - Closing the browser
+2025-01-27 11:12:42,785 - 14 Sep Automation_Framework -INFO - Browser closed successfully
+2025-01-27 11:25:38,105 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-27 11:25:38,110 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:25:38,111 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-27 11:25:47,467 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-27 11:25:47,468 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-27 11:25:47,797 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:25:47,805 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:25:50,266 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-27 11:25:50,301 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC01_AccountRegistrationTest *****
+2025-01-27 11:25:50,303 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 11:25:50,335 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 11:25:50,941 - 14 Sep Automation Framework -INFO - Clicking on 'Register'.
+2025-01-27 11:25:52,187 - 14 Sep Automation Framework -INFO - Filling out registration details.
+2025-01-27 11:25:52,196 - 14 Sep Automation Framework -INFO - Generated random string: KJznW
+2025-01-27 11:25:52,196 - 14 Sep Automation Framework -INFO - Generated First Name: kjznw
+2025-01-27 11:25:52,973 - 14 Sep Automation Framework -INFO - Generated random string: XHrSH
+2025-01-27 11:25:52,975 - 14 Sep Automation Framework -INFO - Generated Last Name: XHRSH
+2025-01-27 11:25:53,132 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: Ssim235
+2025-01-27 11:25:53,132 - 14 Sep Automation Framework -INFO - Generated Email: Ssim235@gmail.com
+2025-01-27 11:25:53,282 - 14 Sep Automation Framework -INFO - Generated random number: 0143400344
+2025-01-27 11:25:53,283 - 14 Sep Automation Framework -INFO - Generated Phone Number: 0143400344
+2025-01-27 11:25:53,389 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: ReCJ101
+2025-01-27 11:25:53,389 - 14 Sep Automation Framework -INFO - Generated Password: [hidden]
+2025-01-27 11:25:53,575 - 14 Sep Automation Framework -INFO - Accepting privacy policy.
+2025-01-27 11:25:54,062 - 14 Sep Automation Framework -INFO - Clicking on 'Continue' to complete registration.
+2025-01-27 11:25:55,035 - 14 Sep Automation Framework -INFO - Validating expected confirmation message.
+2025-01-27 11:25:55,099 - 14 Sep Automation Framework -INFO - Confirmation Message Retrieved: Your Account Has Been Created!
+2025-01-27 11:25:55,100 - 14 Sep Automation Framework -INFO - Account registration successful.
+2025-01-27 11:25:55,103 - 14 Sep Automation Framework -INFO - ***** Finished Test Case: TC01_AccountRegistrationTest *****
+2025-01-27 11:25:55,121 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-27 11:25:55,236 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-27 11:42:07,013 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-27 11:42:07,016 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-27 11:42:07,016 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-27 11:42:18,360 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-27 11:42:18,362 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-27 11:42:18,700 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 11:42:18,713 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 11:42:21,104 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-27 11:42:21,133 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC01_AccountRegistrationTest *****
+2025-01-27 11:42:21,134 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 11:42:21,183 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 11:42:21,686 - 14 Sep Automation Framework -INFO - Clicking on 'Register'.
+2025-01-27 11:42:22,980 - 14 Sep Automation Framework -INFO - Filling out registration details.
+2025-01-27 11:42:22,994 - 14 Sep Automation Framework -INFO - Generated random string: AWYCj
+2025-01-27 11:42:22,994 - 14 Sep Automation Framework -INFO - Generated First Name: awycj
+2025-01-27 11:42:23,813 - 14 Sep Automation Framework -INFO - Generated random string: HSYMp
+2025-01-27 11:42:23,814 - 14 Sep Automation Framework -INFO - Generated Last Name: HSYMP
+2025-01-27 11:42:23,961 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: ZfRg209
+2025-01-27 11:42:23,962 - 14 Sep Automation Framework -INFO - Generated Email: ZfRg209@gmail.com
+2025-01-27 11:42:24,143 - 14 Sep Automation Framework -INFO - Generated random number: 3216400868
+2025-01-27 11:42:24,144 - 14 Sep Automation Framework -INFO - Generated Phone Number: 3216400868
+2025-01-27 11:42:24,252 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: bgjO158
+2025-01-27 11:42:24,252 - 14 Sep Automation Framework -INFO - Generated Password: [hidden]
+2025-01-27 11:42:24,435 - 14 Sep Automation Framework -INFO - Accepting privacy policy.
+2025-01-27 11:42:24,998 - 14 Sep Automation Framework -INFO - Clicking on 'Continue' to complete registration.
+2025-01-27 11:42:25,791 - 14 Sep Automation Framework -INFO - Validating expected confirmation message.
+2025-01-27 11:42:25,852 - 14 Sep Automation Framework -INFO - Confirmation Message Retrieved: Your Account Has Been Created!
+2025-01-27 11:42:25,852 - 14 Sep Automation Framework -INFO - Account registration successful.
+2025-01-27 11:42:25,859 - 14 Sep Automation Framework -INFO - ***** Finished Test Case: TC01_AccountRegistrationTest *****
+2025-01-27 11:42:25,880 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-27 11:42:26,012 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-27 20:26:17,094 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-27 20:26:17,097 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-27 20:26:17,098 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-27 20:26:27,581 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-27 20:26:27,582 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-27 20:26:27,908 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 20:26:27,916 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 20:26:30,237 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-27 20:26:30,277 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC01_AccountRegistrationTest *****
+2025-01-27 20:26:30,278 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 20:26:30,324 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 20:26:30,936 - 14 Sep Automation Framework -INFO - Clicking on 'Register'.
+2025-01-27 20:26:32,236 - 14 Sep Automation Framework -INFO - Filling out registration details.
+2025-01-27 20:26:32,246 - 14 Sep Automation Framework -INFO - Generated random string: YLtHC
+2025-01-27 20:26:32,247 - 14 Sep Automation Framework -INFO - Generated First Name: ylthc
+2025-01-27 20:26:33,245 - 14 Sep Automation Framework -INFO - Generated random string: UPaZl
+2025-01-27 20:26:33,245 - 14 Sep Automation Framework -INFO - Generated Last Name: UPAZL
+2025-01-27 20:26:33,451 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: BEJk877
+2025-01-27 20:26:33,452 - 14 Sep Automation Framework -INFO - Generated Email: BEJk877@gmail.com
+2025-01-27 20:26:33,699 - 14 Sep Automation Framework -INFO - Generated random number: 8696112421
+2025-01-27 20:26:33,700 - 14 Sep Automation Framework -INFO - Generated Phone Number: 8696112421
+2025-01-27 20:26:33,777 - 14 Sep Automation Framework -INFO - Generated random alphanumeric string: ekwP059
+2025-01-27 20:26:33,778 - 14 Sep Automation Framework -INFO - Generated Password: [hidden]
+2025-01-27 20:26:34,140 - 14 Sep Automation Framework -INFO - Accepting privacy policy.
+2025-01-27 20:26:35,284 - 14 Sep Automation Framework -INFO - Clicking on 'Continue' to complete registration.
+2025-01-27 20:26:36,291 - 14 Sep Automation Framework -INFO - Validating expected confirmation message.
+2025-01-27 20:26:36,368 - 14 Sep Automation Framework -INFO - Confirmation Message Retrieved: Your Account Has Been Created!
+2025-01-27 20:26:36,368 - 14 Sep Automation Framework -INFO - Account registration successful.
+2025-01-27 20:26:36,384 - 14 Sep Automation Framework -INFO - ***** Finished Test Case: TC01_AccountRegistrationTest *****
+2025-01-27 20:26:36,410 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-27 20:26:36,567 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-27 20:32:32,669 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-27 20:32:32,672 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-27 20:32:32,672 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-27 20:32:41,909 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-27 20:32:41,910 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-27 20:32:42,234 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 20:32:42,242 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 20:32:44,701 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-27 20:32:44,738 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC02_LoginTest *****
+2025-01-27 20:32:44,740 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 20:32:44,818 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 20:32:45,373 - 14 Sep Automation Framework -INFO - Clicking on 'Login'.
+2025-01-27 20:32:46,019 - 14 Sep Automation Framework -INFO - Navigating to the Login Page.
+2025-01-27 20:32:46,024 - 14 Sep Automation Framework -INFO - Entering email address: Python123@gmail.com
+2025-01-27 20:32:46,850 - 14 Sep Automation Framework -INFO - Entering password: [hidden]
+2025-01-27 20:32:47,156 - 14 Sep Automation Framework -INFO - Clicking on 'Login' button.
+2025-01-27 20:32:48,183 - 14 Sep Automation Framework -INFO - Navigating to the 'My Account' page.
+2025-01-27 20:32:48,193 - 14 Sep Automation Framework -INFO - Validating if 'My Account' page is displayed.
+2025-01-27 20:33:03,655 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-27 20:33:03,778 - 14 Sep Automation Framework -INFO - Browser closed successfully
+2025-01-27 21:41:04,699 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-27 21:41:04,704 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-27 21:41:04,705 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-27 21:47:59,704 - 14 Sep Automation Framework -INFO - Logger initialized
+2025-01-27 21:47:59,708 - 14 Sep Automation Framework -INFO - Setting up the browser: chrome
+2025-01-27 21:47:59,709 - 14 Sep Automation Framework -INFO - Launching Chrome browser
+2025-01-27 21:48:08,700 - 14 Sep Automation Framework -INFO - Browser launched successfully
+2025-01-27 21:48:08,701 - 14 Sep Automation Framework -INFO - Maximizing browser window
+2025-01-27 21:48:09,038 - 14 Sep Automation Framework -INFO - Setting implicit wait to 20 seconds
+2025-01-27 21:48:09,046 - 14 Sep Automation Framework -INFO - Navigating to application URL: https://tutorialsninja.com/demo/
+2025-01-27 21:48:11,540 - 14 Sep Automation Framework -INFO - Application opened successfully
+2025-01-27 21:48:11,579 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC02_LoginTest *****
+2025-01-27 21:48:11,581 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 21:48:11,616 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 21:48:12,119 - 14 Sep Automation Framework -INFO - Clicking on 'Login'.
+2025-01-27 21:48:12,669 - 14 Sep Automation Framework -INFO - Navigating to the Login Page.
+2025-01-27 21:48:12,672 - 14 Sep Automation Framework -INFO - Entering email address: Python123@gmail.com
+2025-01-27 21:48:13,301 - 14 Sep Automation Framework -INFO - Entering password: [hidden]
+2025-01-27 21:48:13,550 - 14 Sep Automation Framework -INFO - Clicking on 'Login' button.
+2025-01-27 21:48:14,212 - 14 Sep Automation Framework -INFO - Navigating to the 'My Account' page.
+2025-01-27 21:48:14,216 - 14 Sep Automation Framework -INFO - Validating if 'My Account' page is displayed.
+2025-01-27 21:48:29,311 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC02_LoginTest *****
+2025-01-27 21:48:29,312 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 21:48:29,314 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 21:48:29,640 - 14 Sep Automation Framework -INFO - Clicking on 'Login'.
+2025-01-27 21:48:30,123 - 14 Sep Automation Framework -INFO - Navigating to the Login Page.
+2025-01-27 21:48:30,124 - 14 Sep Automation Framework -INFO - Entering email address: Python123@gmail.com
+2025-01-27 21:48:30,520 - 14 Sep Automation Framework -INFO - Entering password: [hidden]
+2025-01-27 21:48:30,637 - 14 Sep Automation Framework -INFO - Clicking on 'Login' button.
+2025-01-27 21:48:30,990 - 14 Sep Automation Framework -INFO - Navigating to the 'My Account' page.
+2025-01-27 21:48:30,993 - 14 Sep Automation Framework -INFO - Validating if 'My Account' page is displayed.
+2025-01-27 21:48:46,110 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC02_LoginTest *****
+2025-01-27 21:48:46,111 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 21:48:46,115 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 21:48:46,244 - 14 Sep Automation Framework -INFO - Clicking on 'Login'.
+2025-01-27 21:48:46,638 - 14 Sep Automation Framework -INFO - Navigating to the Login Page.
+2025-01-27 21:48:46,640 - 14 Sep Automation Framework -INFO - Entering email address: Python123@gmail.com
+2025-01-27 21:48:46,815 - 14 Sep Automation Framework -INFO - Entering password: [hidden]
+2025-01-27 21:48:46,866 - 14 Sep Automation Framework -INFO - Clicking on 'Login' button.
+2025-01-27 21:48:47,069 - 14 Sep Automation Framework -INFO - Navigating to the 'My Account' page.
+2025-01-27 21:48:47,070 - 14 Sep Automation Framework -INFO - Validating if 'My Account' page is displayed.
+2025-01-27 21:49:02,198 - 14 Sep Automation Framework -INFO - ***** Starting Test Case: TC02_LoginTest *****
+2025-01-27 21:49:02,200 - 14 Sep Automation Framework -INFO - Navigating to the Home Page.
+2025-01-27 21:49:02,204 - 14 Sep Automation Framework -INFO - Clicking on 'My Account'.
+2025-01-27 21:49:02,277 - 14 Sep Automation Framework -INFO - Clicking on 'Login'.
+2025-01-27 21:49:02,609 - 14 Sep Automation Framework -INFO - Navigating to the Login Page.
+2025-01-27 21:49:02,611 - 14 Sep Automation Framework -INFO - Entering email address: Python123@gmail.com
+2025-01-27 21:49:02,709 - 14 Sep Automation Framework -INFO - Entering password: [hidden]
+2025-01-27 21:49:02,740 - 14 Sep Automation Framework -INFO - Clicking on 'Login' button.
+2025-01-27 21:49:03,252 - 14 Sep Automation Framework -INFO - Navigating to the 'My Account' page.
+2025-01-27 21:49:03,254 - 14 Sep Automation Framework -INFO - Validating if 'My Account' page is displayed.
+2025-01-27 21:49:18,738 - 14 Sep Automation Framework -INFO - Closing the browser
+2025-01-27 21:49:18,880 - 14 Sep Automation Framework -INFO - Browser closed successfully

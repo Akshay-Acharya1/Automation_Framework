@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Mater Suite">
+	<groups>
+		<run>
+			<include name="Master"></include>
+			<!--include name="Regression"></include-->
+			<!--include name="Sanity"></include-->
+		</run>
+	</groups>
+	<listeners>
+		<listener class-name="utilities.Listners" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="testCases.TC03_SearchTest"/>
+			<class name="testCases.TC05_BrokenLink"/>
+			<class name="testCases.TC02_LoginTest" />
+			<class name="testCases.TC01_AccountRegistrationTest" />
+			<class name="testCases.TC04_LoginDDT"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

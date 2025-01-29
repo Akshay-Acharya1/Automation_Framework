@@ -15,3 +15,5 @@ public class BasePage {
 		
 	}
 }
+
+//base class
